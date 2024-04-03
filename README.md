@@ -1,3 +1,18 @@
+# React frontend application for fetching tags from Stack Exchage API
+
+Technologies used:
+- React, TypeScript, Vite
+- Redux Toolkit
+- axios
+- Storybook
+
+Installation:
+- git clone https://github.com/bugiss656/react-tags.git
+- cd react-tags
+- npm install
+- npm run dev
+- npm run storybook
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

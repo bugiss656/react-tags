@@ -84,7 +84,7 @@ function App() {
                     alignItems="center"
                     sx={{ margin: '50px 0' }}
                 >
-                    <Typography variant="h6" sx={{ fontWeight: 'bold' }}>FETCH STACKOVERFLOW TAGS</Typography>
+                    <Typography variant="h6" sx={{ fontWeight: 'bold' }}>STACKOVERFLOW TAGS BROWSER</Typography>
                     <Box
                         display="flex" 
                         flexDirection="row" 
